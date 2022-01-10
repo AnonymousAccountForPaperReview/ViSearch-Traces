@@ -1,0 +1,15 @@
+3 8 3 3
+0,0,add,5,null
+0,0,remove,5,null
+0,0,add,0,null
+0,0,add,4,null
+0,0,size,2
+0,0,contains,1,false
+0,0,add,3,null
+0,0,contains,0,false
+0,0,size,0
+0,0,add,1,null
+0,0,remove,4,null
+0,0,contains,3,false
+0,0,remove,0,null
+0,0,add,0,null

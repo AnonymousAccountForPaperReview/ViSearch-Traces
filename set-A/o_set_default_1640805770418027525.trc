@@ -1,0 +1,17 @@
+3 8 5 3
+0,0,add,4,null
+0,0,add,3,null
+0,0,contains,5,false
+0,0,add,1,null
+0,0,contains,1,true
+0,0,contains,3,true
+0,0,size,5
+0,0,contains,0,true
+0,0,size,0
+0,0,contains,5,false
+0,0,add,0,null
+0,0,add,5,null
+0,0,contains,1,true
+0,0,add,4,null
+0,0,contains,1,true
+0,0,contains,4,true
