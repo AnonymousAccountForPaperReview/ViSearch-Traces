@@ -1,0 +1,16 @@
+3 6 6 3
+0,0,get,2,null
+0,0,get,0,null
+0,0,get,0,null
+0,0,size,1
+0,0,get,0,null
+0,0,size,2
+0,0,size,0
+0,0,get,1,null
+0,0,get,0,null
+0,0,get,1,null
+0,0,size,2
+0,0,put,2,930786730,null
+0,0,put,2,2142774405,null
+0,0,put,1,1967750654,null
+0,0,size,2
