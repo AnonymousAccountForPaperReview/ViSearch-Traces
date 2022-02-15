@@ -1,0 +1,16 @@
+3 6 6 3
+0,0,size,0
+0,0,add,3,null
+0,0,size,2
+0,0,size,2
+0,0,size,2
+0,0,size,2
+0,0,add,2,null
+0,0,add,0,null
+0,0,contains,0,true
+0,0,size,2
+0,0,size,2
+0,0,add,3,null
+0,0,size,0
+0,0,remove,2,null
+0,0,remove,1,null

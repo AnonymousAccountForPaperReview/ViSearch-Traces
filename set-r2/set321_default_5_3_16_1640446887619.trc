@@ -1,0 +1,16 @@
+3 4 7 4
+0,0,contains,0,true
+0,0,remove,2,null
+0,0,remove,3,null
+0,0,add,2,null
+0,0,add,0,null
+0,0,add,0,null
+0,0,contains,2,false
+0,0,size,2
+0,0,contains,0,false
+0,0,contains,3,false
+0,0,add,3,null
+0,0,contains,3,false
+0,0,add,3,null
+0,0,remove,0,null
+0,0,contains,1,false
