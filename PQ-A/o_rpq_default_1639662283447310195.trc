@@ -1,0 +1,16 @@
+3 4 8 3
+0,0,add,3,348,null
+0,0,add,5,519,null
+0,0,rem,3,null
+0,0,rem,1,null
+0,0,add,4,209,null
+0,0,add,0,549,null
+0,0,max,0 549
+0,0,max,0 797
+0,0,add,2,635,null
+0,0,rem,4,null
+0,0,rem,2,null
+0,0,rem,0,null
+0,0,add,0,797,null
+0,0,add,1,333,null
+0,0,max,0 797

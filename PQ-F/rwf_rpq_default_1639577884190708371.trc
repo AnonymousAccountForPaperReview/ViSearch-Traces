@@ -1,0 +1,16 @@
+3 6 4 5
+0,0,add,4,491,null
+0,0,max,4 491
+0,0,rem,5,null
+0,0,add,1,247,null
+0,0,rem,0,null
+0,0,rem,1,null
+0,0,add,0,282,null
+0,0,add,5,21,null
+0,0,max,4 645
+0,0,rem,1,null
+0,0,add,2,249,null
+0,0,add,4,645,null
+0,0,add,1,613,null
+0,0,score,4,645
+0,0,score,1,613

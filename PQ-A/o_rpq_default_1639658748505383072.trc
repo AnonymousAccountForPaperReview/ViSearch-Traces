@@ -1,0 +1,16 @@
+3 4 6 5
+0,0,max,2 983
+0,0,score,1,873
+0,0,add,4,867,null
+0,0,incrby,4,134,null
+0,0,add,5,850,null
+0,0,incrby,1,139,null
+0,0,rem,5,null
+0,0,incrby,1,230,null
+0,0,incrby,1,-24,null
+0,0,score,2,744
+0,0,add,1,734,null
+0,0,add,2,983,null
+0,0,incrby,2,-239,null
+0,0,max,1 1103
+0,0,max,1 1079

@@ -1,0 +1,17 @@
+3 11 3 2
+0,0,add,0,491,null
+0,0,rem,4,null
+0,0,rem,0,null
+0,0,add,1,869,null
+0,0,add,3,807,null
+0,0,add,5,584,null
+0,0,score,4,null
+0,0,rem,1,null
+0,0,score,3,41
+0,0,incrby,3,-35,null
+0,0,score,2,561
+0,0,add,4,83,null
+0,0,add,3,41,null
+0,0,add,2,561,null
+0,0,incrby,3,-70,null
+0,0,score,3,702

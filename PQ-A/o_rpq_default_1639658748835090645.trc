@@ -1,0 +1,17 @@
+3 4 7 5
+0,0,add,0,565,null
+0,0,add,4,358,null
+0,0,score,3,null
+0,0,incrby,5,324,null
+0,0,add,5,993,null
+0,0,max,5 993
+0,0,max,5 993
+0,0,add,3,208,null
+0,0,rem,2,null
+0,0,max,5 1194
+0,0,add,1,757,null
+0,0,add,2,990,null
+0,0,incrby,5,-123,null
+0,0,rem,4,null
+0,0,add,4,263,null
+0,0,incrby,3,-179,null
